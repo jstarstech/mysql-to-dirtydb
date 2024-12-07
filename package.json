@@ -1,5 +1,5 @@
 {
-  "name": "mysql_to_dirtydb",
+  "name": "mysql-to-dirtydb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
